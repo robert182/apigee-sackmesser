@@ -1,0 +1,22 @@
+[
+  {
+    "name": "kvmtestmap",
+    "encrypted": "true",
+    "entry": [
+      {
+        "name": "foo",
+        "value": "001"
+      }
+    ]
+  },
+  {
+    "name": "org-kvm",
+    "encrypted": "true",
+    "entry": [
+      {
+        "name": "bar",
+        "value": "002"
+      }
+    ]
+  }
+]
